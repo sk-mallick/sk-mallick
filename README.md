@@ -21,6 +21,29 @@
 - 🥅 Goals: Contribute more to Open Source projects
 
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+
+### Talking about Personal Stuffs
+
+- 🔭 I recently designed the official website for a [Preschool](https://purvaanshpreschool.com/)  
+- 👯 Developed the ACM website for my college: [Trident ACM](https://adityanarayandas.github.io/acm/)  
+- 🌱 Currently learning: **Java**, **React**, and  **Artificial Intelligence**  
+- 💬 Ask me about: **Frontend Development** and **Ethical Hacking**  
+- 👨‍💻 Explore all my projects here: [My Portfolio](https://sk-coder-001.netlify.app/)  
+- 📫 Reach me at: **subhammallick454@gmail.com**  
+- ⚡ I love to play with new AI tools and technologies.  
+- 🥅 Goals: Contribute more to Open Source projects.
+
+</td>
+    <td valign="top">
+      <img src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="100%" height="auto" />
+    </td>
+  </tr>
+</table>
+
+
 <!--### 🧰 Languages and Tools
 
 <p align="left">
