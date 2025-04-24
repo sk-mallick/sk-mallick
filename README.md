@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-mallick" alt="sk-mallick" width="1010" /> </p>
-<img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="400" height="290" />
+<img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="400" height="270" />
 
   
   ### Talking about Personal Stuffs
