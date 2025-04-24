@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar Mallick</h1>
 <h3 align="center">A passionate FullStack developer from India/h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyaawithcode&label=Profile%20views&color=0e75b6&style=flat" alt="sk-mallick" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-mallick&label=Profile%20views&color=0e75b6&style=flat" alt="sk-mallick" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyaawithcode" alt="sk-mallick" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-mallick" alt="sk-mallick" /></a> </p>
 
 - 🔭 Designed website [Purvaansh Preschool](https://purvaanshpreschool.com/)
 
