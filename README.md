@@ -70,9 +70,9 @@
 
 ### :octocat: Github Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=radical" alt="sk-mallick" width="480" height="180" />  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=radical" alt="sk-mallick" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-mallick&layout=compact&hide=html&theme=radical" alt="sk-mallick" />  <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&layout=compact&hide=html&theme=radical" alt="sk-mallick" />  <br><br>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&layout=compact&hide=html&theme=radical" alt="sk-mallick" />  <br><br>-->
 </p>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me
