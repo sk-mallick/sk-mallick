@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-mallick" alt="sk-mallick" width="1010" /> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-mallick" alt="sk-mallick" width="1010" /> </p>-->
 <img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="400" height="270" />
 
   
@@ -99,11 +99,11 @@
 </p>
 
 
-### :octocat: Github Statistics
+<!--### :octocat: Github Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sk-mallick&show_icons=true&theme=radical" alt="sk-mallick" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-mallick&layout=compact&hide=html&theme=radical" alt="sk-mallick" height="180"/>  
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&layout=compact&hide=html&theme=radical" alt="sk-mallick" />  <br><br>-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mallick&layout=compact&hide=html&theme=radical" alt="sk-mallick" />  <br><br>-->
 </p>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Connect with me
