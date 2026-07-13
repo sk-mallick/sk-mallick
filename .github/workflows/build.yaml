@@ -26,6 +26,12 @@ jobs:
           restore-keys: ${{ runner.os }}-pip-
       - name: Install dependencies
         run: python -m pip install -r cache/requirements.txt
+      - name: Validate GitHub token
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          test -n "$ACCESS_TOKEN" || (echo "ACCESS_TOKEN is empty"; exit 1)
+          curl -f -sS -H "Authorization: token $ACCESS_TOKEN" https://api.github.com/user >/dev/null
       - name: Update README file
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}

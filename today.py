@@ -19,8 +19,11 @@ if os.path.exists('.env'):
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 # Issues and pull requests permissions not needed at the moment, but may be used in the future
 try:
-    HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-    USER_NAME = os.environ['USER_NAME'] # 'sk-mallick'
+    token = os.environ['ACCESS_TOKEN'].strip()
+    if not token:
+        raise KeyError('ACCESS_TOKEN')
+    HEADERS = {'authorization': 'token ' + token}
+    USER_NAME = os.environ['USER_NAME'].strip()
 except KeyError as e:
     raise SystemExit(f'Missing required environment variable: {e}. Set it in GitHub Secrets or a .env file.') from e
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
@@ -58,6 +61,11 @@ def simple_request(func_name, query, variables):
     request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
     if request.status_code == 200:
         return request
+    if request.status_code == 401:
+        raise Exception(
+            f"{func_name} failed: 401 Unauthorized (invalid or expired ACCESS_TOKEN). "
+            f"Response: {request.text}"
+        )
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
 
 
